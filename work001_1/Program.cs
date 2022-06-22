@@ -8,5 +8,5 @@ if (a > b)
 }
 else
 {
-    Console.WriteLine("Большее число ="+ b);
+    Console.WriteLine("Большее число =" + b);
 }
