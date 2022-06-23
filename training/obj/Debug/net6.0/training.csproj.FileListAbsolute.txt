@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Work4\training\bin\Debug\net6.0\training.exe
+C:\Users\Дмитрий\Desktop\Work4\training\bin\Debug\net6.0\training.deps.json
+C:\Users\Дмитрий\Desktop\Work4\training\bin\Debug\net6.0\training.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Work4\training\bin\Debug\net6.0\training.dll
+C:\Users\Дмитрий\Desktop\Work4\training\bin\Debug\net6.0\training.pdb
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.dll
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\refint\training.dll
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.pdb
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\training.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Work4\training\obj\Debug\net6.0\ref\training.dll
