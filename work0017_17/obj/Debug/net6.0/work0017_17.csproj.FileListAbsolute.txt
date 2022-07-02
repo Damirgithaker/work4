@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\bin\Debug\net6.0\work0017_17.exe
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\bin\Debug\net6.0\work0017_17.deps.json
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\bin\Debug\net6.0\work0017_17.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\bin\Debug\net6.0\work0017_17.dll
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\bin\Debug\net6.0\work0017_17.pdb
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.dll
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\refint\work0017_17.dll
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.pdb
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\work0017_17.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Work4\work0017_17\obj\Debug\net6.0\ref\work0017_17.dll
