@@ -16,4 +16,4 @@ for (int i = 0; i < array.Length; i++)
 }
 double result = arrayMax - arrayMin;
 Console.WriteLine();
-Console.WriteLine($"{result}");
+Console.WriteLine($"Разница между максимальным и минимальным элементом =  {result}");
