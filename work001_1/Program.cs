@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Введите первое число:");
-int a = Convert.ToInt32(Console.ReadLine());
+double a = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите второе число:");
-int b = Convert.ToInt32(Console.ReadLine());
+double b = Convert.ToDouble(Console.ReadLine());
 if (a > b)
 {
     Console.WriteLine("Большее число =" + a);

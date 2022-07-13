@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\bin\Debug\net6.0\work0019_19.exe
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\bin\Debug\net6.0\work0019_19.deps.json
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\bin\Debug\net6.0\work0019_19.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\bin\Debug\net6.0\work0019_19.dll
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\bin\Debug\net6.0\work0019_19.pdb
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.dll
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\refint\work0019_19.dll
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.pdb
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\work0019_19.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Work4\work0019_19\obj\Debug\net6.0\ref\work0019_19.dll

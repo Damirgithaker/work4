@@ -13,12 +13,12 @@ while (index < array.Length)
     index++;
 }
 int sumPos = 0;
-for (int i = 0; i < array.Length + 1; i++)
+for (int i = 0; i <= array.Length; i++)
 {
 
-    if (i! % 2 != 0)
+    if (i % 2 != 0)
     {
-        sumPos = sumPos + array[i - 1];
+        sumPos = sumPos + array[i];
     }
 }
 Console.WriteLine();

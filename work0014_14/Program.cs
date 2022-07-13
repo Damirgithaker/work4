@@ -8,11 +8,11 @@ int x2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите данные координаты y2: ");
 int y2 = Convert.ToInt32(Console.ReadLine());
 
-double Ras(int a1, int b1, int a2, int b2)
+double GetDistance(int a1, int b1, int a2, int b2)
 {
     double res = Math.Sqrt((a1 - a2) * (a1 - a2) + (b1 - b2) * (b1 - b2));
     res = Math.Round(res, 2);
     return res;
 }
-double result = Ras(x1,y1,x2,y2);
+double result = GetDistance(x1,y1,x2,y2);
 Console.WriteLine(result);
