@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Work4\work46\bin\Debug\net6.0\work46.exe
+C:\Users\Дмитрий\Desktop\Work4\work46\bin\Debug\net6.0\work46.deps.json
+C:\Users\Дмитрий\Desktop\Work4\work46\bin\Debug\net6.0\work46.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Work4\work46\bin\Debug\net6.0\work46.dll
+C:\Users\Дмитрий\Desktop\Work4\work46\bin\Debug\net6.0\work46.pdb
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.dll
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\refint\work46.dll
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.pdb
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\work46.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Work4\work46\obj\Debug\net6.0\ref\work46.dll
