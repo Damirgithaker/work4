@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Work4\homework56\bin\Debug\net6.0\homework56.exe
+C:\Users\Дмитрий\Desktop\Work4\homework56\bin\Debug\net6.0\homework56.deps.json
+C:\Users\Дмитрий\Desktop\Work4\homework56\bin\Debug\net6.0\homework56.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Work4\homework56\bin\Debug\net6.0\homework56.dll
+C:\Users\Дмитрий\Desktop\Work4\homework56\bin\Debug\net6.0\homework56.pdb
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.dll
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\refint\homework56.dll
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.pdb
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\homework56.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Work4\homework56\obj\Debug\net6.0\ref\homework56.dll
